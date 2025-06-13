@@ -9,6 +9,7 @@ git config --global user.email "your-email@example.com"
 
 git init    | Для иницылизации репозитория
 git remote add origin https://github.com/arzy-54-2/OOP-55-2.git
+git remote remove origin | для удаления привязки к репозиторию
 ----------------------------------------------------------------------------
 Команды для работы с репозиторием
 
