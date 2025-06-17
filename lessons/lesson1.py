@@ -17,7 +17,7 @@ class Hero:
     def added(self):
         pass
 
-
+dawdaw
 
 # Объект класса|Экземпляр класса
 kirito = Hero(name="Kirito", hp=123)
