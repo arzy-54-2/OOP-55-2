@@ -63,10 +63,4 @@ pip freeze -> requirements.txt    | для сохранения зависимо
 git reset .        | сброс  то что находится после команды git add
 git restore .      | сброс всех файлов или одного до состояния коммита
 
-gfvrers
-fvew
-FCwe
-fcd
-weF
-C
-Wef
+git clone link_to_repo  | для клонирования проекта из GitHub
