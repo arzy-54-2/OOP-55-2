@@ -61,4 +61,12 @@ python3
 pip freeze -> requirements.txt    | для сохранения зависимостей в файл
 
 git reset .        | сброс  то что находится после команды git add
-git restore .      |
+git restore .      | сброс всех файлов или одного до состояния коммита
+
+gfvrers
+fvew
+FCwe
+fcd
+weF
+C
+Wef
