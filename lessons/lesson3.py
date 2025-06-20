@@ -51,5 +51,3 @@ class Cat(Animal):
         print("step")
 
 gufi = Dog()
-
-fdaw

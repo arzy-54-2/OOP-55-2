@@ -51,4 +51,14 @@ staging|develop     | Ветки для тестовой разработки
 release/1.0.0 | Ветка для релиза
 production          | Ветка для продакшена для пользователей
 
-п
+source .venv/bin/activate     | Mac or Linux
+.venv\Scripts\activate         | Windows
+
+py
+python     -m venv name_venv   |  create venv
+python3
+
+pip freeze -> requirements.txt    | для сохранения зависимостей в файл
+
+git reset .        | сброс  то что находится после команды git add
+git restore .      |
