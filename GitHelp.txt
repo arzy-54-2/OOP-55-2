@@ -60,7 +60,11 @@ python3
 
 pip freeze -> requirements.txt    | для сохранения зависимостей в файл
 
+pip install  name_model            | для установки зависимости
+
 git reset .        | сброс  то что находится после команды git add
 git restore .      | сброс всех файлов или одного до состояния коммита
 
 git clone link_to_repo  | для клонирования проекта из GitHub
+
+git log    | для просмотра истории коммитов
