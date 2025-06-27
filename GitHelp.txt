@@ -22,6 +22,7 @@ git switch name_branch | Переключение на ветку
 git checkout -b name_branch | Добавляет ветку в репозитории и переключается на нее
 git merge name_branch | для слияния указанной ветки
 git push origin main|master
+git fetch --all     | для стягивания всех веток из репозитория
 
 git rm -r --cached name_dir | для удаления директории
 
