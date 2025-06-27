@@ -1,4 +1,4 @@
-from my_package import Test, Test2
+from my_package import *
 import turtle
 
 print(Test)
