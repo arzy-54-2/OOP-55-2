@@ -33,7 +33,7 @@ def add_user(fio, age, hobby):
 # add_user('Ardager Kartanbekov', 26, "Дрыхнуть")
 
 def get_all_users():
-    cursor.execute('SELECT * FROM users')
+    cursor.execute('SELECT fio, age, hobby  FROM users')
 
     users = cursor.fetchall()
 
